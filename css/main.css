@@ -1,0 +1,30 @@
+body {
+    user-select: none;
+}
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.listBox {
+    margin-top: 20px;
+}
+
+.inputs {
+    display: flex;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.intCheck {
+    margin-right: 10px;
+}
